@@ -11,9 +11,9 @@
 <http://purl.org/ontology/onfraud#> rdf:type owl:Ontology ;
                                      owl:imports <http://xmlns.com/foaf/0.1/> .
 
-#################################################################
+##################################################################
 #    Annotation properties
-#################################################################
+##################################################################
 
 ###  gr:hasCurrencyValue
 <gr:hasCurrencyValue> rdf:type owl:AnnotationProperty .
